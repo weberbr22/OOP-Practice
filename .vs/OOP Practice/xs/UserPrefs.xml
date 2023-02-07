@@ -1,12 +1,8 @@
 ﻿<Properties StartupConfiguration="{96CAF35D-43F2-4616-BB73-A96CDC7D736E}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="OOP Practice/Program.cs">
     <Files>
-      <File FileName="OOP Practice/Program.cs" Line="237" Column="1" />
+      <File FileName="OOP Practice/Program.cs" Line="5" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,6 +14,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.OOP_220Practice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
